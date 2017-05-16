@@ -1,0 +1,8 @@
+C:\Technostar\CognitiveService\TestApp\bin\Debug\TestApp.exe.config
+C:\Technostar\CognitiveService\TestApp\bin\Debug\TestApp.exe
+C:\Technostar\CognitiveService\TestApp\bin\Debug\TestApp.pdb
+C:\Technostar\CognitiveService\TestApp\bin\Debug\M2Mqtt.Net.dll
+C:\Technostar\CognitiveService\TestApp\bin\Debug\M2Mqtt.Net.pdb
+C:\Technostar\CognitiveService\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Technostar\CognitiveService\TestApp\obj\Debug\TestApp.exe
+C:\Technostar\CognitiveService\TestApp\obj\Debug\TestApp.pdb

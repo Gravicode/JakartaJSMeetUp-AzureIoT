@@ -1,0 +1,38 @@
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Bot Application1.dll.config
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Bot Application1.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Bot Application1.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Autofac.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Chronic.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.Bot.Builder.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.Bot.Connector.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Newtonsoft.Json.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\System.Net.Http.Formatting.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\System.Web.Http.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\System.Web.Http.WebHost.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Autofac.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.Bot.Builder.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.Bot.Connector.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.Rest.ClientRuntime.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\Newtonsoft.Json.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\System.Net.Http.Formatting.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\System.Web.Http.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\System.Web.Http.WebHost.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\obj\Release\Bot Application1.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\BasicBot\obj\Release\Bot Application1.pdb

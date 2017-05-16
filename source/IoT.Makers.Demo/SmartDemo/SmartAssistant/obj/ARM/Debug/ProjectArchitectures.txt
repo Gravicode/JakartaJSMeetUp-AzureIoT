@@ -1,0 +1,1 @@
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\SmartAssistant.csproj;arm

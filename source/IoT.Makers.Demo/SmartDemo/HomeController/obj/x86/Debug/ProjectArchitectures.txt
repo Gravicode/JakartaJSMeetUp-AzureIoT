@@ -1,0 +1,1 @@
+E:\Experiment\APACAzureIoTDemo\IoT.Makers.Demo\SmartDemo\HomeController\HomeController.csproj;x86

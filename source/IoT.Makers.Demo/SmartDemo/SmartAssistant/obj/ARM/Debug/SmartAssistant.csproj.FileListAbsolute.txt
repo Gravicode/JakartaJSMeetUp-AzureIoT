@@ -1,0 +1,449 @@
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\App.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\MainPage.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Styles\Styles.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\SmartAssistant.xr.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\SmartAssistant.exe
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\SmartAssistant.pdb
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\resources.pri
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\AppxManifest.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Core\AppxManifest.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Core\SmartAssistant.exe
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\SmartAssistant.build.appxrecipe
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\LinqToTwitter.uap10.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\M2Mqtt.WinRT.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\M2Mqtt.WinRT.pdb
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Core.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Numerics.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Windows.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.Linq.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.ProjectOxford.Common.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.ProjectOxford.Face.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reactive.Core.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reactive.Interfaces.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reactive.Linq.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reactive.PlatformServices.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.AppContext.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Collections.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ComponentModel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Data.Common.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Globalization.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.Compression.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\ClrCompression.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Linq.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Http.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Requests.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Sockets.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ObjectModel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Private.Networking.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Private.Uri.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Context.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Security.Claims.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Security.Principal.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Text.Encoding.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Timer.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\XamlAnimatedGif.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\SmartAssistant.csprojResolveAssemblyReference.cache
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\App.g.i.cs
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\App.g.cs
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\MainPage.g.i.cs
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\MainPage.g.cs
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\App.xaml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\MainPage.xaml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\Styles\Styles.xaml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\App.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\MainPage.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\Styles\Styles.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\SmartAssistant.exe
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\SmartAssistant.pdb
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\ResourceHandlingTask.state
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\System.Reactive.Core\en-US\System.Reactive.Strings_Core.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\System.Reactive.Linq\en-US\System.Reactive.Strings_Linq.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\System.Reactive.PlatformServices\en-US\System.Reactive.Strings_PlatformServices.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\SmartAssistant.csproj.GenerateResource.Cache
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\priconfig.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\priconfig.xml.intermediate
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\layout.resfiles
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\layout.resfiles.intermediate
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\resources.resfiles
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\resources.resfiles.intermediate
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\pri.resfiles
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\pri.resfiles.intermediate
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\qualifiers.txt
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\M2Mqtt.WinRT.pri.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\ProjectArchitectures.txt
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\App.xbf
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\MainPage.xbf
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Styles\Styles.xbf
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\SmartAssistant.xr.xml
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\SmartAssistant.exe
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\SmartAssistant.pdb
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\resources.pri
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\AppxManifest.xml
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Core\AppxManifest.xml
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Core\SmartAssistant.exe
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\SmartAssistant.build.appxrecipe
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\LinqToTwitter.uap10.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\M2Mqtt.WinRT.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\M2Mqtt.WinRT.pdb
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Core.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Numerics.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Windows.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.Linq.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.ProjectOxford.Common.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.ProjectOxford.Face.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Collections.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Globalization.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Text.Encoding.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Timer.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Primitives.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Sockets.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Private.Uri.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\clrcompression.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reactive.Core.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reactive.Interfaces.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reactive.Linq.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reactive.PlatformServices.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.AppContext.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Buffers.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ComponentModel.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Data.Common.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.Compression.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Linq.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Http.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.NameResolution.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.Requests.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.WebSockets.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ObjectModel.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Context.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Security.Claims.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Security.Principal.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\ARM\Debug\XamlAnimatedGif.dll
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\SmartAssistant.csprojResolveAssemblyReference.cache
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\App.g.i.cs
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\App.g.cs
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\MainPage.g.i.cs
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\MainPage.g.cs
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\App.xaml
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\MainPage.xaml
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\Styles\Styles.xaml
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\App.xbf
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\MainPage.xbf
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\Styles\Styles.xbf
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\SmartAssistant.exe
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\SmartAssistant.pdb
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\ResourceHandlingTask.state
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\System.Reactive.Core\en-US\System.Reactive.Strings_Core.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\System.Reactive.Linq\en-US\System.Reactive.Strings_Linq.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\System.Reactive.PlatformServices\en-US\System.Reactive.Strings_PlatformServices.resw
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\SmartAssistant.csproj.GenerateResource.Cache
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\priconfig.xml
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\priconfig.xml.intermediate
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\layout.resfiles
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\layout.resfiles.intermediate
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\resources.resfiles
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\resources.resfiles.intermediate
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\pri.resfiles
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\pri.resfiles.intermediate
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\qualifiers.txt
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\M2Mqtt.WinRT.pri.xml
+C:\experiment\hactiv8\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\ARM\Debug\ProjectArchitectures.txt

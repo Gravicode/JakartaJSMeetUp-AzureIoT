@@ -1,0 +1,1 @@
+C:\Technostar\CognitiveService\FezHatBot\FezHatBot\FezHatBot.csproj;arm

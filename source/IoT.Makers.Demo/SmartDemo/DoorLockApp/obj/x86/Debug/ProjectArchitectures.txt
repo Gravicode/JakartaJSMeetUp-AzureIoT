@@ -1,0 +1,1 @@
+E:\Jobs\AZURE-APAC-WEEKEND\Demo\Demo_2\IoT.Makers.Demo\SmartDemo\DoorLockApp\DoorLockApp.csproj;x86

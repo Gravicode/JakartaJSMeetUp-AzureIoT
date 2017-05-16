@@ -1,0 +1,8 @@
+E:\Experiment\APACAzureIoTDemo\IoT.Makers.Demo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Experiment\APACAzureIoTDemo\IoT.Makers.Demo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Experiment\APACAzureIoTDemo\IoT.Makers.Demo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Experiment\APACAzureIoTDemo\IoT.Makers.Demo\ConsoleApplication1\bin\Debug\M2Mqtt.Net.dll
+E:\Experiment\APACAzureIoTDemo\IoT.Makers.Demo\ConsoleApplication1\bin\Debug\M2Mqtt.Net.pdb
+E:\Experiment\APACAzureIoTDemo\IoT.Makers.Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Experiment\APACAzureIoTDemo\IoT.Makers.Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Experiment\APACAzureIoTDemo\IoT.Makers.Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
