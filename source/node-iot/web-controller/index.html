@@ -1,0 +1,82 @@
+<script src="/socket.io/socket.io.js"></script>
+<script src="https://code.jquery.com/jquery-1.11.1.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>Control Device from Web (SocketIO + Express)</title>
+
+  <!-- Bootstrap -->
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+    crossorigin="anonymous">
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+  <div class="container">
+    <div class="jumbotron">
+      <p>Control your device from Azure IoT Hub (C2D) using Node.js, socket.io, express</p>
+    </div>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Control</th>
+          <th>Value</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Servo</td>
+          <td><input type="text" id="txtservo" value="90"></td>
+          <td><button id="btnservo" class="btn">Set Servo</td>          
+        </tr>
+        <tr>
+          <td>LED</td>
+          <td>Turn On</td>
+          <td><button class="btn" id="btnledon" >Set LED</td>          
+        </tr>
+        <tr>
+        <td>LED</td>
+        <td>Turn Off</td>
+        <td><button  class="btn" id="btnledoff" >Set LED</td>           
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  </body>
+</html>
+
+<script>
+    $(function () {
+      var socket = io();
+      $('#btnledon').click(function () {
+        socket.emit('control-device','led-on');
+        return false;
+      });
+      $('#btnledoff').click(function () {
+        socket.emit('control-device','led-off');
+        return false;
+      });
+      $('#btnservo').click(function () {
+        socket.emit('control-device','servo:'+$('#txtservo').val());
+        return false;
+      });
+      socket.on('control-device', function (msg) {
+        console.log('message:'+msg);
+        //$('#messages').append($('<li>').text(msg));
+      });
+    });
+  </script>
