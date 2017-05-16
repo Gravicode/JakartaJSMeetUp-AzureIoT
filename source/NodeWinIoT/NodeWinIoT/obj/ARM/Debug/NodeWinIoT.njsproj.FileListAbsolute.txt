@@ -1,0 +1,17 @@
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\bin\ARM\Debug\resources.pri
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\bin\ARM\Debug\AppxManifest.xml
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\bin\ARM\Debug\NodeWinIoT.build.appxrecipe
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\ResourceHandlingTask.state
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\NodeWinIoT.njsproj.GenerateResource.Cache
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\priconfig.xml
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\priconfig.xml.intermediate
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\layout.resfiles
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\layout.resfiles.intermediate
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\resources.resfiles
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\resources.resfiles.intermediate
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\pri.resfiles
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\pri.resfiles.intermediate
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\qualifiers.txt
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\obj\ARM\Debug\ProjectArchitectures.txt

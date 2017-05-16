@@ -1,0 +1,1 @@
+C:\experiment\hactiv8\NodeWinIoT\NodeWinIoT\NodeWinIoT.njsproj;arm
